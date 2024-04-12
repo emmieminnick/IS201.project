@@ -1,0 +1,59 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+    /* know this for quiz */
+}
+
+#top{
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgb(191, 188, 190);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    /* need to know these for quiz */
+    border:5px solid black;
+    margin:80px;
+    padding:100px;
+    color: black;
+}
+
+ul{
+    list-style-position: inside;
+    font-size: medium;
+}
+
+ol{
+    list-style-position: inside;
+    font-size: larger;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: antiquewhite;
+    color: black
+}
+
+.footer{
+    position: fixed;
+    background-color: black;
+    color: white;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+.common{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
